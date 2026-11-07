@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="WORKING DAYS.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="AverageGrade.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
